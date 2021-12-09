@@ -1,4 +1,4 @@
-# Desafios_DIO
+# Desafios_DIO 📚
 ## Repositório com Desafios Resolvidos
 * JavaScript <br>
 _Resolvendo Desafios Básicos em JavaScript <br>_
