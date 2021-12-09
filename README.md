@@ -7,7 +7,7 @@ _Resolvendo Desafios Básicos em JavaScript <br>_
 [3 - Folha de Pagamento](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Folha_de_pagamento.js) <br>
 <br>
 _Resolvendo Desafios em JavaScrip_ <br>
-[1 - Saida 1 ]
+[1 - Saida 1 ](https://github.com/ByancaMCES/Desafios_DIO/blob/main/saida_1.js)
 [2 - Batmain]
 [3 - Nossos dias Nunca voltarão]
 
