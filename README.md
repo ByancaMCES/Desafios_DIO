@@ -11,5 +11,5 @@ _Resolvendo Desafios em JavaScrip_ <br>
 
 [1 - Saida 1](https://github.com/ByancaMCES/Desafios_DIO/blob/main/saida_1.js) <br>
 [2 - Batmain](https://github.com/ByancaMCES/Desafios_DIO/blob/main/batmain.js) <br>
-[3 - Nossos dias Nunca voltarão] <br>
+[3 - Nossos dias Nunca voltarão](https://github.com/ByancaMCES/Desafios_DIO/blob/main/nossos_dias_nunca.js) <br>
 
