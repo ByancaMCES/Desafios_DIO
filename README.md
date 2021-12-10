@@ -17,5 +17,5 @@ _Resolvendo Desafios Intermediários em JavaScript *_ <br>
 
 [1 - Triangulo](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Triangulo.js) <br>
 [2 - Guilherme e suas Pipas](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Guilher_e_suas_pipas.js)<br>
-[3 - Tomadas] <br>
+[3 - Tomadas](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Tomadas.js) <br>
 
