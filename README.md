@@ -15,7 +15,7 @@ _Resolvendo Desafios em JavaScrip_ <br>
 
 _Resolvendo Desafios Intermediários em JavaScript *_ <br>
 
-[1 - Triangulo] <br>
+[1 - Triangulo](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Triangulo.js) <br>
 [2 - Guilherme e suas Pipas] <br>
 [3 - Tomadas] <br>
 
