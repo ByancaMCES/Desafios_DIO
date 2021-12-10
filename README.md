@@ -13,3 +13,9 @@ _Resolvendo Desafios em JavaScrip_ <br>
 [2 - Batmain](https://github.com/ByancaMCES/Desafios_DIO/blob/main/batmain.js) <br>
 [3 - Nossos dias Nunca voltarão](https://github.com/ByancaMCES/Desafios_DIO/blob/main/nossos_dias_nunca.js) <br>
 
+_Resolvendo Desafios Intermediários em JavaScript *_ <br>
+
+[1 - Triangulo] <br>
+[2 - Guilherme e suas Pipas] <br>
+[3 - Tomadas] <br>
+
