@@ -21,5 +21,7 @@ _Resolvendo Desafios Intermediários em JavaScript *_ <br>
 
 _Programando com JavaScript - Iniciante_ <br>
 [1 - Intervalo ](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Intervalo.js) 
+[2 - Quanta Mandioca ](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Quantamandioca.js) 
+[3 - Números Impares ](https://github.com/ByancaMCES/Desafios_DIO/blob/main/NumerosImpares.js) 
 
 
