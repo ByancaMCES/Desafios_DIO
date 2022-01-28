@@ -19,3 +19,7 @@ _Resolvendo Desafios Intermediários em JavaScript *_ <br>
 [2 - Guilherme e suas Pipas](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Guilher_e_suas_pipas.js)<br>
 [3 - Tomadas](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Tomadas.js) <br>
 
+_Programando com JavaScript - Iniciante_ <br>
+[1 - Intervalo ](https://github.com/ByancaMCES/Desafios_DIO/blob/main/Intervalo.js) 
+
+
